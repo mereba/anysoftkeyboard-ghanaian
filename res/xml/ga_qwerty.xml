@@ -8,9 +8,9 @@
     >
     
     <Row>
-        <Key android:codes="603" android:keyLabel="ɛ" android:keyEdgeFlags="left"/>
+        <Key android:codes="603" android:keyLabel="ɛ" android:popupCharacters="&#8373;" android:keyEdgeFlags="left"/>
         <Key android:codes="119" android:keyLabel="w" android:popupCharacters=""/>
-        <Key android:codes="101" android:keyLabel="e" android:popupCharacters="₵"/>
+        <Key android:codes="101" android:keyLabel="" android:popupCharacters="&#8373;"/>
         <Key android:codes="114" android:keyLabel="r" android:popupCharacters=""/>
         <Key android:codes="116" android:keyLabel="t" android:popupCharacters=""/>
         <Key android:codes="121" android:keyLabel="y" android:popupCharacters=""/>

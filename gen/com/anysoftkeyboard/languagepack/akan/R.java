@@ -33,6 +33,5 @@ public final class R {
         public static final int ew_qwerty=0x7f030002;
         public static final int ga_qwerty=0x7f030003;
         public static final int keyboards=0x7f030004;
-        public static final int ru_physical=0x7f030005;
     }
 }
