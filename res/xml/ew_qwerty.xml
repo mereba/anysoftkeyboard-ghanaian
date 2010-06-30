@@ -25,7 +25,7 @@
         <Key android:codes="115" android:keyLabel="s" android:popupCharacters=""/>
         <Key android:codes="100" android:keyLabel="d" android:popupCharacters=""/>
         <Key android:codes="102" android:keyLabel="f" android:popupCharacters=""/>
-        <Key android:codes="404" android:keyLabel="Ɣ" android:popupCharacters="g"/>
+        <Key android:codes="611" android:keyLabel="Ɣ" android:popupCharacters="g"/>
         <Key android:codes="104" android:keyLabel="h" android:popupCharacters=""/>
         <Key android:codes="402" android:keyLabel="ƒ" android:popupCharacters="j"/>
         <Key android:codes="107" android:keyLabel="k" android:popupCharacters=""/>
