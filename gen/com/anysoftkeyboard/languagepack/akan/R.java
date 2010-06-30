@@ -19,11 +19,10 @@ public final class R {
     }
     public static final class string {
         public static final int ak_desc=0x7f050002;
-        public static final int ak_dictionary=0x7f050007;
+        public static final int ak_dictionary=0x7f050006;
         public static final int ak_keyboard=0x7f050001;
         public static final int app_name=0x7f050000;
         public static final int ee_keyboard=0x7f050005;
-        public static final int ew_desc=0x7f050006;
         public static final int ga_desc=0x7f050004;
         public static final int ga_keyboard=0x7f050003;
     }
@@ -31,8 +30,7 @@ public final class R {
         public static final int ak_qwerty=0x7f030000;
         public static final int dictionaries=0x7f030001;
         public static final int ee_qwerty=0x7f030002;
-        public static final int ew_qwerty=0x7f030003;
-        public static final int ga_qwerty=0x7f030004;
-        public static final int keyboards=0x7f030005;
+        public static final int ga_qwerty=0x7f030003;
+        public static final int keyboards=0x7f030004;
     }
 }
