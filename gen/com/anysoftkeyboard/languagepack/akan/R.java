@@ -31,7 +31,8 @@ public final class R {
         public static final int ak_qwerty=0x7f030000;
         public static final int dictionaries=0x7f030001;
         public static final int ee_qwerty=0x7f030002;
-        public static final int ga_qwerty=0x7f030003;
-        public static final int keyboards=0x7f030004;
+        public static final int ew_qwerty=0x7f030003;
+        public static final int ga_qwerty=0x7f030004;
+        public static final int keyboards=0x7f030005;
     }
 }
