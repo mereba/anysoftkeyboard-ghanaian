@@ -20,7 +20,7 @@
 		defaultDictionaryLocale="ak" 
 		description="Akan keyboard layout."
 		index="1"/>
-		
+ 		
 		<Keyboard id="5e8ea8c4-a287-42af-9781-55e7c6f4d53a" nameResId="@string/ga_keyboard"
 		layoutResId="@xml/ga_qwerty"
 		landscapeResId="@xml/ga_qwerty"
@@ -28,7 +28,7 @@
 		defaultDictionaryLocale="ga" 
 		description="Ga keyboard layout."
 		index="2"/>
-		
+ 		
 		<Keyboard id="f1533ec2-f971-42ed-9908-686b9426bf3f" nameResId="@string/ee_keyboard"
 		layoutResId="@xml/ee_qwerty"
 		landscapeResId="@xml/ee_qwerty"
@@ -36,5 +36,14 @@
 		defaultDictionaryLocale="ee" 
 		description="Ewe keyboard layout."
 		index="3"/> 
-	<!-- you can add additional layouts. Just create additional Keyboard xml node. -->
+
+		<Keyboard id="153987e5-0919-4a00-9326-87d23891e70d" nameResId="@string/ha_keyboard"
+		layoutResId="@xml/ha_qwerty"
+		landscapeResId="@xml/ha_qwerty"
+		iconResId="@drawable/flag"
+		defaultDictionaryLocale="ha" 
+		description="Hausa keyboard layout."
+		index="4"/> 
+		
+			<!-- you can add additional layouts. Just create additional Keyboard xml node. -->
 </Keyboards>
